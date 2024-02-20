@@ -1,0 +1,135 @@
+{
+  "products": [
+    {
+      "name": "Vintas Public 2000s - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708018450/assignment-ecma/mrg6o8axiwkk47pkat9s.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708018452/assignment-ecma/glzxldaorvpupgppsuam.jpg"
+      ],
+      "price": "620000",
+      "description": "Insignia Blue",
+      "id": 1
+    },
+    {
+      "name": "Vintas Public 2000s - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020792/assignment-ecma/x8wsjvxd6u8kujnu6fu9.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020793/assignment-ecma/dbog2kab1pvko4sm65di.jpg"
+      ],
+      "price": "620000",
+      "description": "Brindle",
+      "id": 2
+    },
+    {
+      "name": "Vintas Public 2000s - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020931/assignment-ecma/xhzdysrdlqtpnd63kqrs.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020932/assignment-ecma/zct3dzsfd6ld8xczvpot.jpg"
+      ],
+      "price": "620000",
+      "description": "Caviar Black",
+      "id": 3
+    },
+    {
+      "name": "Hip Pack - Ananas Global Goal",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708022242/assignment-ecma/ezuphanwgvipfvyfxctx.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708022244/assignment-ecma/r9de1zinik5gitcyptjw.jpg"
+      ],
+      "price": "275000",
+      "description": "Blue Berry",
+      "id": 4
+    },
+    {
+      "name": "Hip Pack - Ananas Global Goal",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066655/assignment-ecma/wslgsuicwrdoeriujqfz.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066656/assignment-ecma/jz1myy1nmaxiqszng4gi.jpg"
+      ],
+      "price": "275000",
+      "description": "Climbing Ivy",
+      "id": 5
+    },
+    {
+      "name": "Hip Pack - Ananas Global Goal",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066747/assignment-ecma/ypdhn7fiu57p2hnuvpvd.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066748/assignment-ecma/ydtmlcvkhiqfkhe8q9vx.jpg"
+      ],
+      "price": "275000",
+      "description": "Climbing Ivy",
+      "id": 6
+    },
+    {
+      "name": "Vintas Nauda EXT - High Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067130/assignment-ecma/gb3ifzhyt78znyep9saf.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067131/assignment-ecma/wguoqck9ymczctw3ba1p.jpg"
+      ],
+      "price": "720000",
+      "description": "Monk's Robe",
+      "id": 7
+    },
+    {
+      "name": "Vintas Nauda EXT - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067690/assignment-ecma/gfciivi75kmkllrlfzyr.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067691/assignment-ecma/jbeflersqphrylb80cms.jpg"
+      ],
+      "price": "650000",
+      "description": "Monk's Robe",
+      "id": 8
+    },
+    {
+      "name": "Track 6 2.Blues - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067722/assignment-ecma/jg4zgrzrbvm2llsifll6.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067723/assignment-ecma/qhef7cihjdj47a6f3xyy.jpg"
+      ],
+      "price": "1200000",
+      "description": "Navy Blue",
+      "id": 9
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "label": "Thống kê",
+      "path": "/admin",
+      "icon": "<svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    },
+    {
+      "id": "2",
+      "label": "Sản phẩm",
+      "path": "/admin/products",
+      "icon": "<svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    }
+  ],
+  "users": [
+    {
+      "email": "ngiang1309@gmail.com",
+      "password": "$2a$10$.P5/s0oXdfRMa2zgbM7YA.2d3UEFhatVgf1jF4rpZKEpMcG4NdlYK",
+      "id": 1
+    },
+    {
+      "email": "ngiang139@gmail.com",
+      "password": "$2a$10$2mP0u64VyGO.Xew/0s51oungwgd0Ur35NnEVTh27faIOSZ6bQTl2K",
+      "id": 2
+    },
+    {
+      "email": "ngiang175@gmail.com",
+      "password": "$2a$10$TP09bH4SZBxm5RQwN/JATeTOFFdXItTw.UZfl4uvpM2VPE5uMMEY.",
+      "id": 3
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$bjLsrskPg1YQA6pTfSpPpeVDpCvUrHweY8vaKmprXJq/1Otg5yxqy",
+      "id": 4
+    },
+    {
+      "email": "nguyennhuyen384@gmail.com",
+      "password": "$2a$10$IihmvMP6.w.i7IOFEVpqK.MTN0KGuFl0xrk57XFNBPNQmwJxhWSPO",
+      "id": 5
+    }
+  ]
+}
