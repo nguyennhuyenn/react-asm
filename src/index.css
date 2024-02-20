@@ -95,7 +95,6 @@ body {
 
 .slide-item {
     height: 800px;
-    margin-left: 80px;
 }
 
 .content-text .title {
@@ -254,9 +253,7 @@ body {
 .img-item {
     text-align: center;
     overflow: hidden;
-    width: 100%;
-    padding-top: 100%;
-    position: relative;
+    height: 100%;
 }
 
 .img-item .inormal,
@@ -264,7 +261,6 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
@@ -357,7 +353,7 @@ body {
 
 .caption {
     padding: 0px;
-    margin-top: -40px;
+    margin-top: 40px;
 }
 
 .text-signup {

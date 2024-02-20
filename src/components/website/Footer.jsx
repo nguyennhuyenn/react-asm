@@ -5,14 +5,8 @@ const Footer = () => {
     return (
         <footer className="pt-4 mt-md-5 pt-md-5 border-top container-fluid">
             <div className="row">
-                <div className="col-12 col-md">
-                    <img
-                        className="mb-2 ms-5"
-                        src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/Store.svg"
-                    />
-                    <small className="d-block mb-3 text-body-secondary">
-                        © YEN 2024
-                    </small>
+                <div className="col-12 col-md text center ms-5 mt-5">
+                    <span>Copyright by Ổi</span>
                 </div>
                 <div className="col-6 col-md footer-menu">
                     <h4 className="mb-3">Sản phẩm</h4>
@@ -50,11 +44,6 @@ const Footer = () => {
                         <li className="mb-1">
                             <Link className="text-decoration-none" href="#">
                                 Liên hệ nhượng quyền
-                            </Link>
-                        </li>
-                        <li className="mb-1">
-                            <Link className="text-decoration-none" href="#">
-                                Về Ananas
                             </Link>
                         </li>
                     </ul>

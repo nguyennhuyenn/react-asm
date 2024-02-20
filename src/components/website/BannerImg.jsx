@@ -16,6 +16,7 @@ const BannerImg = () => {
         initialSlide: 2,
         autoplay: true,
         autoplaySpeed: 5000,
+        arrows: false,
     };
     return (
         <>
@@ -23,19 +24,22 @@ const BannerImg = () => {
                 <Slider {...settings1}>
                     <div className="slide-item">
                         <img
-                            src="https://ananas.vn/wp-content/uploads/Web1920-1.jpeg"
+                            className="w-100"
+                            src="https://ninethemes.net/durotan20/html/assets/images/full-width/slider-01-01.jpg"
                             alt=""
                         />
                     </div>
                     <div className="slide-item">
                         <img
-                            src="https://ananas.vn/wp-content/uploads/Hi-im-Mule_1920x1050-Desktop.jpg"
+                            className="w-100"
+                            src="https://ninethemes.net/durotan20/html/assets/images/full-width/slider-02.jpg"
                             alt=""
                         />
                     </div>
                     <div className="slide-item">
                         <img
-                            src="https://ananas.vn/wp-content/uploads/Banner_Clothing.jpg"
+                            className="w-100"
+                            src="https://ninethemes.net/durotan20/html/assets/images/full-width/slider-03.jpg"
                             alt=""
                         />
                     </div>

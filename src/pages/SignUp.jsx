@@ -36,13 +36,7 @@ const SignUp = () => {
                         className="custom-form-width"
                         onSubmit={handleSubmit(onSubmit)}
                     >
-                        <img
-                            className="mb-4 mx-auto d-block"
-                            src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/Logo_Ananas_Header.svg"
-                            width={100}
-                            height={110}
-                        />
-                        <h1 className="h3 mb-3 fw-normal text-signup text-center">
+                        <h1 className="h3 mb-3 fw-normal text-signup text-center mt-5 mb-5">
                             Đăng ký
                         </h1>
                         <div className="form-floating">

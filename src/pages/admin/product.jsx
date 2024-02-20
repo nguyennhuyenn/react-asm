@@ -45,7 +45,7 @@ const ProductPage = ({ products, onRemove }) => {
                 <img
                     src={row.image[0]}
                     alt="Ảnh sản phẩm"
-                    style={{ width: "160px", height: "160px" }}
+                    style={{ width: "140px", height: "200px" }}
                 />
             ),
         },

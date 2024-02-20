@@ -7,14 +7,20 @@ import Banner from "./Banner";
 const HeaderWebsite = () => {
     return (
         <div>
-            <HeaderMenu />
-            <header className="d-flex flex-wrap align-items-end justify-content-evenly py-3 border-bottom">
-                <div className="col-md-1 mb-2 mb-md-0">
+            <header className="d-flex flex-wrap py-3 border-bottom justify-content-center align-items-center">
+                <div className="">
                     <Link
                         to={"/"}
                         className="d-inline-flex link-body-emphasis text-decoration-none"
                     >
-                        <h2>Dutoran</h2>
+                        <h2
+                            style={{
+                                textTransform: "uppercase",
+                                marginBottom: "0",
+                            }}
+                        >
+                            DUROTAN
+                        </h2>
                     </Link>
                 </div>
                 <ul className="nav col-md-6 mb-2 justify-content-center mb-md-0 nav-header">
@@ -23,44 +29,18 @@ const HeaderWebsite = () => {
                             SẢN PHẨM
                         </Link>
                     </li>
-                    <li className="line"></li>
                     <li className="dropdown">
-                        <Link href="#" className="px-2 text-dark">
-                            NAM
+                        <Link to={"/sign-in"} className="px-2 text-dark">
+                            ĐĂNG NHẬP
                         </Link>
                     </li>
-                    <li className="line"></li>
                     <li className="dropdown">
-                        <Link href="#" className="px-2 text-dark">
-                            NỮ
-                        </Link>
-                    </li>
-                    <li className="line"></li>
-                    <li className="dropdown">
-                        <Link href="#" className="px-2 text-dark">
-                            SALE OFF
-                        </Link>
-                    </li>
-                    <li className="line"></li>
-                    <li className="dropdown">
-                        <Link href="#" className="px-2 text-dark">
-                            <img
-                                src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/DiscoverYOU.svg"
-                                alt=""
-                            />
+                        <Link to={"/sign-up"} className="px-2 text-dark">
+                            ĐĂNG KÝ
                         </Link>
                     </li>
                 </ul>
-                <form className="col-12 col-lg-auto mb-4 me-lg-3" role="search">
-                    <input
-                        type="search"
-                        className="form-control text-bg"
-                        placeholder="Search"
-                        aria-label="Search"
-                    />
-                </form>
             </header>
-            <Banner />
         </div>
     );
 };

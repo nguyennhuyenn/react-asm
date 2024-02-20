@@ -1,94 +1,44 @@
 {
   "products": [
     {
-      "name": "Vintas Public 2000s - Low Top",
+      "name": "Wool/Cashmere basic cardigan",
       "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708018450/assignment-ecma/mrg6o8axiwkk47pkat9s.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708018452/assignment-ecma/glzxldaorvpupgppsuam.jpg"
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708447826/assignment-ecma/jtfscgfsm1bhecssf5lb.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708447830/assignment-ecma/qgmvxlphpvsf9amkweqf.jpg"
       ],
-      "price": "620000",
-      "description": "Insignia Blue",
+      "price": "500000",
+      "description": "Đẹp",
       "id": 1
     },
     {
-      "name": "Vintas Public 2000s - Low Top",
+      "name": "Áo 2",
       "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020792/assignment-ecma/x8wsjvxd6u8kujnu6fu9.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020793/assignment-ecma/dbog2kab1pvko4sm65di.jpg"
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708448535/assignment-ecma/vrdovmqttkzjzvzkjbs1.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708448537/assignment-ecma/o6agyfysw1vux3hrhbp9.jpg"
       ],
-      "price": "620000",
-      "description": "Brindle",
+      "price": "300000",
+      "description": "Đẹp",
       "id": 2
     },
     {
-      "name": "Vintas Public 2000s - Low Top",
+      "name": "Áo 3",
       "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020931/assignment-ecma/xhzdysrdlqtpnd63kqrs.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708020932/assignment-ecma/zct3dzsfd6ld8xczvpot.jpg"
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708448621/assignment-ecma/nimpzixfxzvxdz47as6x.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708448621/assignment-ecma/p7ehu35glpidkwqjpbqm.jpg"
       ],
-      "price": "620000",
-      "description": "Caviar Black",
+      "price": "500000",
+      "description": "đẹp",
       "id": 3
     },
     {
-      "name": "Hip Pack - Ananas Global Goal",
+      "name": "Giày",
       "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708022242/assignment-ecma/ezuphanwgvipfvyfxctx.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708022244/assignment-ecma/r9de1zinik5gitcyptjw.jpg"
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708448699/assignment-ecma/yugjzl1jmkbnieikxns9.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708448701/assignment-ecma/l724ydnorykxrbfawizr.jpg"
       ],
-      "price": "275000",
-      "description": "Blue Berry",
+      "price": "1000000",
+      "description": "Đẹp x2",
       "id": 4
-    },
-    {
-      "name": "Hip Pack - Ananas Global Goal",
-      "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066655/assignment-ecma/wslgsuicwrdoeriujqfz.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066656/assignment-ecma/jz1myy1nmaxiqszng4gi.jpg"
-      ],
-      "price": "275000",
-      "description": "Climbing Ivy",
-      "id": 5
-    },
-    {
-      "name": "Hip Pack - Ananas Global Goal",
-      "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066747/assignment-ecma/ypdhn7fiu57p2hnuvpvd.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708066748/assignment-ecma/ydtmlcvkhiqfkhe8q9vx.jpg"
-      ],
-      "price": "275000",
-      "description": "Climbing Ivy",
-      "id": 6
-    },
-    {
-      "name": "Vintas Nauda EXT - High Top",
-      "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067130/assignment-ecma/gb3ifzhyt78znyep9saf.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067131/assignment-ecma/wguoqck9ymczctw3ba1p.jpg"
-      ],
-      "price": "720000",
-      "description": "Monk's Robe",
-      "id": 7
-    },
-    {
-      "name": "Vintas Nauda EXT - Low Top",
-      "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067690/assignment-ecma/gfciivi75kmkllrlfzyr.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067691/assignment-ecma/jbeflersqphrylb80cms.jpg"
-      ],
-      "price": "650000",
-      "description": "Monk's Robe",
-      "id": 8
-    },
-    {
-      "name": "Track 6 2.Blues - Low Top",
-      "image": [
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067722/assignment-ecma/jg4zgrzrbvm2llsifll6.jpg",
-        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708067723/assignment-ecma/qhef7cihjdj47a6f3xyy.jpg"
-      ],
-      "price": "1200000",
-      "description": "Navy Blue",
-      "id": 9
     }
   ],
   "menus": [

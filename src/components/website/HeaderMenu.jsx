@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const HeaderMenu = () => {
     return (
         <div>
-            <div className="row header d-flex">
+            <div className="header">
                 <nav>
                     <ul className="menu">
                         <li>
